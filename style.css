@@ -1,0 +1,15 @@
+body {
+    background-color: #161649;
+}    
+
+.wrapper {
+    display: flex;
+    background-color: #fff;
+    width: 200px;
+    height: 600px;
+    flex-direction: column;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    justify-content: center;
+    margin-left: 40%;
+}
